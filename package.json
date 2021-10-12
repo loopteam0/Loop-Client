@@ -150,7 +150,7 @@
     "bootstrap": "^4.1.2",
     "codelyzer": "~4.2.1",
     "core-js": "^2.5.4",
-    "electron": "^5.0.0",
+    "electron": "^11.5.0",
     "electron-builder": "^20.38.4",
     "electron-packager": "^12.1.0",
     "electron-toolkit": "^1.0.24",
